@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Imagen pendiente</title>
+  <desc id="desc">Marcador local para proyectos audiovisuales sin imagen definitiva.</desc>
+  <rect width="1200" height="800" fill="#171615"/>
+  <circle cx="170" cy="130" r="260" fill="#d88a4a" opacity="0.18"/>
+  <circle cx="1080" cy="720" r="340" fill="#f0c48f" opacity="0.12"/>
+  <path d="M180 565h840" stroke="#f4efe7" stroke-opacity="0.16" stroke-width="2"/>
+  <path d="M180 610h560" stroke="#f4efe7" stroke-opacity="0.12" stroke-width="2"/>
+  <rect x="170" y="180" width="860" height="390" rx="34" fill="#201d1a" stroke="#f4efe7" stroke-opacity="0.18" stroke-width="3"/>
+  <path d="M448 447V303l137 72-137 72Z" fill="#d88a4a"/>
+  <text x="170" y="665" fill="#f4efe7" font-family="Arial, sans-serif" font-size="52" font-weight="700">Imagen pendiente</text>
+  <text x="170" y="720" fill="#c8bdb0" font-family="Arial, sans-serif" font-size="30">Portafolio audiovisual</text>
+</svg>

@@ -1,0 +1,10 @@
+﻿.env
+.env.*
+private/
+raw/
+node_modules/
+*.psd
+*.prproj
+*.tmp
+*.bak
+documentos/cv-cesar-caro-postulacion.pdf
