@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cesarcarocaroalfonso-lab.github.io/portafolio-cesar-caro/sitemap.xml
